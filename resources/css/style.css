@@ -1,11 +1,13 @@
-html {background-color: black}
+html {
+    background-color: black;
+    text-align: center;
+}
 
 h1,
 h2,
 p,
 figcaption {
     font-family: "Verdana";
-    text-align: center;
 }
 
 h1 {
