@@ -1,3 +1,5 @@
+html {background-color: black}
+
 h1,
 h2,
 p,
@@ -5,3 +7,4 @@ figcaption {
     font-family: "Verdana";
     color: white;
 }
+
