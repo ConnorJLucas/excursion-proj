@@ -1,7 +1,7 @@
-/* html {
+html {
     background-color: black;
     text-align: center;
-} */
+}
 
 h1,
 h2,
@@ -19,7 +19,7 @@ h1 {
 h2 {
     font-weight: 300;
     font-size: 42px;
-    color: red;
+    color: white;
 }
 
 a {
